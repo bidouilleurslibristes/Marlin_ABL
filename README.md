@@ -1,3 +1,11 @@
+# Outils pour ABL
+
+* firmware imprimante => Marlin
+* interface de pilotage => printrun ou [repetier](https://www.repetier.com/download-now/) (plus user friendly, possibilité de faire de controle par smartphone)
+
+----------------------------------
+
+
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
